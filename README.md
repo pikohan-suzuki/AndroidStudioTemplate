@@ -8,7 +8,7 @@
 
 ## Fragment/MVVMFragment
 ### Preparation
-- - Replace 'MVVM' directory to "Studio\plugins\android\lib\templates\fragments"
+- Replace 'MVVM' directory to "Studio\plugins\android\lib\templates\fragments"
 
 ### useage
 - Right click on the directory and choose  New->Fragments->MVVMFragment to make files.
